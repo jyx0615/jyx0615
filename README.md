@@ -21,8 +21,9 @@ I'm a Computer Science student who enjoys building software and exploring new te
 <details>
 <summary>More about me</summary>
 
-[![jyx's GitHub stats](https://github-stats-extended.vercel.app/api/top-langs?username=jyx0615)](https://github.com/stats-organization/github-stats-extended)
-[![jyx's GitHub stats](https://github-stats-extended.vercel.app/api/wakatime?username=d75d0e1f-4569-4c60-8319-a85c3a100782)](https://github.com/stats-organization/github-stats-extended)
+[![jyx's GitHub stats](https://github-stats-extended.vercel.app/api/top-langs?username=jyx0615&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=jyx0615&theme=dark_github)
+
+[![jyx's GitHub stats](https://github-stats-extended.vercel.app/api/wakatime?username=d75d0e1f-4569-4c60-8319-a85c3a100782&theme=dark_github)](https://github-stats-extended.vercel.app/api/wakatime?username=d75d0e1f-4569-4c60-8319-a85c3a100782&theme=dark_github)
 
 
 </details>
